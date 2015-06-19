@@ -15,7 +15,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author c0652863
+ * @author c0652674
  *
  */
 public class CPD3314Project {

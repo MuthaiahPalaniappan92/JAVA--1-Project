@@ -42,7 +42,7 @@ import org.xml.sax.SAXException;
 import org.yaml.snakeyaml.Yaml;
 
 /**
- * @author Len Payne <len.payne@lambtoncollege.ca>
+ * @author C0652674
  */
 public class CPD3314ProjectTest {
 

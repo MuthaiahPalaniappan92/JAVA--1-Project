@@ -28,7 +28,7 @@ import org.junit.Before;
 import org.yaml.snakeyaml.Yaml;
 
 /**
- * @author Len Payne <len.payne@lambtoncollege.ca>
+ * @author C0652674
  */
 public class ProductTest {
 

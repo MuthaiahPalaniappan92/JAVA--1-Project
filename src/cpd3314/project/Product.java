@@ -11,7 +11,7 @@ import org.yaml.snakeyaml.Yaml;
 
 /**
  *
- * @author Ramasubbaiya Adaikkalam
+ * @author c0652674
  */
 @Root
 public class Product {
